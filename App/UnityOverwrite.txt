@@ -5,10 +5,8 @@
 # Write a line equal to 'overwrite-all' (without quotes) to overwrite everything (preserved accross builds)
 # Write a line equal to 'keep-all' (without quotes) to keep files regardless their modification (preserved accross builds)
 # Default behavior is to never overwrite files
-Inohiza.sln: 8C5C9F2C05135919543296EE24F65556
+tsumiki.sln: 5162A781C7B37831F15D5824E6679A60
 Inohiza\App.cs: 43BFFB1372196AD7BE63D1CDB8294C96
-Inohiza\Inohiza.csproj: EAD124B493B16ADF370BA670EA58802C
-Inohiza\Inohiza.csproj.user: modified
 Inohiza\Package.appxmanifest: E80B5A6B30EAD3BE3151871665DD968A
 Inohiza\project.json: 1D02BC64BAC0D041019673A1C4C51737
 Inohiza\Assets\SplashScreen.scale-200.png: 60618416282ED104FD1473935716045D
@@ -19,3 +17,16 @@ Inohiza\Assets\StoreLogo.png: 90BD194CA4A7CFFF3E8B8222229857FB
 Inohiza\Assets\Wide310x150Logo.scale-200.png: C96846A80DF667F87355569CD816192D
 Inohiza\Properties\AssemblyInfo.cs: FFDF878C9588BC55EC3E0CF0D20D0381
 Inohiza\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826
+tsumiki\App.cs: D145FCA3415100D9520FD62E622A2BAF
+tsumiki\Package.appxmanifest: 94F2784AA4574C21B6C6D1AA90148B82
+tsumiki\project.json: 1D02BC64BAC0D041019673A1C4C51737
+tsumiki\tsumiki.csproj: FEC6B48BB63D2E87D59B6FD33847ECF3
+tsumiki\tsumiki.csproj.user: BEFB8AC4886C4CFDD3C68445D6F19B04
+tsumiki\Assets\SplashScreen.scale-200.png: 60618416282ED104FD1473935716045D
+tsumiki\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
+tsumiki\Assets\Square44x44Logo.scale-200.png: 6C6EF27184ABE9D870A9D564953775DE
+tsumiki\Assets\Square44x44Logo.targetsize-24_altform-unplated.png: 156637F7B5363E983E7A46D8E533A23D
+tsumiki\Assets\StoreLogo.png: 90BD194CA4A7CFFF3E8B8222229857FB
+tsumiki\Assets\Wide310x150Logo.scale-200.png: C96846A80DF667F87355569CD816192D
+tsumiki\Properties\AssemblyInfo.cs: 297B68F44EE38226EF972E24AEB9C736
+tsumiki\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826

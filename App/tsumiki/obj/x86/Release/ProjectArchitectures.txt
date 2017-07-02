@@ -1,0 +1,1 @@
+C:\Unity\test_app\App\tsumiki\tsumiki.csproj;x86
